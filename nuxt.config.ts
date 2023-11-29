@@ -13,10 +13,12 @@ export default({
         name: 'pembelian',
         path: '/pembelian',
         component: '~/pages/pembelian.vue' // Pastikan ini mengacu pada lokasi halaman pembayaran yang benar
-      }
+      },
+      // Tamb
       // Tambahkan rute lainnya jika diperlukan
     ]
   },
+ 
 
 
 
