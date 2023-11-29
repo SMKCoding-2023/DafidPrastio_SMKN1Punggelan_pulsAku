@@ -24,9 +24,6 @@
         <a href="https://www.facebook.com/link-to-facebook" target="_blank" rel="noopener noreferrer">
           <img src="/images/products/fb.png" alt="Facebook" class="w-8 h-8 hover:scale-110 transition-transform duration-300 ease-in-out">
         </a>
-        <a href="https://www.instagram.com/link-to-instagram" target="_blank" rel="noopener noreferrer">
-          <img src="/images/products/instagram-512.webp" alt="Instagram" class="w-8 h-8 hover:scale-110 transition-transform duration-300 ease-in-out">
-        </a>
         <!-- Tambahkan logo/link sosial media lainnya -->
       </div>
     </div>

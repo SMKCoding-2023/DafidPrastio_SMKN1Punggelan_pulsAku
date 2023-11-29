@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto">
-    <h1 class="text-3xl font-bold my-4">Produk Pulsa :</h1>
+    <h1 class="text-3xl font-bold my-4">Produk Pulsa:</h1>
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
       <!-- Loop untuk menampilkan daftar produk dari Supabase -->
       <div
