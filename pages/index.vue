@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto">
     <h1 class="text-5xl font-bold text-center mt-10" style="color: rgba(35, 208, 251, 0.645);">WELCOME</h1>
-    <p class="text-3xl text-center mt-4">Nikmati Kecepatan Transaksi di Platform Kami</p>
+    <p class="text-3xl text-center mt-4" style="font-family:helvetica;">Nikmati Kecepatan Transaksi di Platform Kami</p>
     <img src="/img/background.png" alt="Gambar Mu" class="mx-auto mb-4 md:mb-8 max-w-full md:max-w-md"> 
     <div class="flex justify-center mt-8">
       <router-link to="/product" class="flex justify-center mt-8">
